@@ -1,4 +1,3 @@
-sickcodes/docker-osx:sonoma
 sickcodes/docker-osx:monterey
 sickcodes/docker-osx:big-sur
 
